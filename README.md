@@ -1,5 +1,8 @@
 Portfolio Website
 
+Vercel link https://ianwachira-portfolio-git-main-wachirakes-projects.vercel.app
+netlify link https://wachiraian.netlify.app/
+
 A simple 3-page portfolio website built with HTML, Tailwind CSS, and JavaScript.
 It includes:
 
