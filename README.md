@@ -1,90 +1,61 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+Portfolio Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A simple 3-page portfolio website built with HTML, Tailwind CSS, and JavaScript.
+It includes:
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+Bio Page → Introduction and about me.
 
----
+Portfolio Page → Showcase of projects.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+Elevator Pitch Page → Short professional pitch.
 
-Before you write any code, take time to plan:
+🚀 Features
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+🎨 Beautiful gradient backgrounds (random on each load)
 
-**Goal:** Show intentional structure and user journey across the site.
+✨ Typing animation for headings
 
----
+🔔 Toast notifications when clicking buttons
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+🖱️ Interactive buttons with hover and click effects
 
-Using your plan, begin building:
+⚡ Built with Tailwind CSS (no custom CSS needed)
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+📂 Project Structure
+portfolio-website/
+│── indexbio.html        # Bio page
+│── port.html    # Portfolio page
+│── pitch.html        # Elevator pitch page
+│── script.js         # JavaScript (animations + interactions)
+│── README.md         # Project documentation
 
-Each page should:
+🔧 Setup & Usage
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+Clone or download the repository:
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+git clone https://github.com/IanWachcode/wachira-portfolio.git
+cd portfolio-website
 
----
+Open index.html in your browser.
+No build tools needed – just HTML + Tailwind via CDN + JS.
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+Edit the files to customize your:
 
-Before deployment, refactor your project to follow production-friendly practices:
+Name & bio (index.html)
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+Projects (portfolio.html)
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+Elevator pitch (pitch.html)
 
----
+🛠️ Built With
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Tailwind CSS
+ – utility-first CSS framework
 
-Once your project is complete, choose a method to **host your site online**.
+Vanilla JavaScript – interactivity & animations
 
-You can use:
+HTML5
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+📜 License
 
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+This project is licensed under the MIT License – feel free to use and modify it for your own portfolio.

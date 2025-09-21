@@ -1,0 +1,13 @@
+.slide-in {
+  position: relative;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  left: -200px;
+  animation: slideIn 1s forwards;
+}
+@keyframes slideIn {
+  to {
+    left: auto;  
+}
+}

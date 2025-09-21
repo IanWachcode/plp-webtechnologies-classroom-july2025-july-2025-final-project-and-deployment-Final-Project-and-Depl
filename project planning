@@ -1,0 +1,34 @@
+Create a professional portfolio site that:
+
+Showcases your work and skills, with clear case studies or project tiles.
+
+Builds credibility (bio, testimonials, measurable results).
+
+Converts visitors into leads/clients via clear CTAs (contact, hire, request quote).
+
+Serves as a living resume for recruiters, clients, and collaborators.
+
+Pages — overview (URLs + goals)
+
+Home — /
+Goal: quick intro + hook, direct visitors to portfolio or services.
+Primary CTAs: View portfolio, Hire / Get a quote.
+
+About / Bio — /about
+Goal: humanize you, show experience, values, short timeline + download resume.
+Primary CTAs: Read portfolio, Contact me, Download resume.
+
+Portfolio — /portfolio
+Goal: display work / case studies that prove capability.
+Primary CTAs: View case study, Request a project estimate.
+
+Services / Pitch — /services
+Goal: explain what you offer, pricing models or packages, process.
+Primary CTAs: Start a project / Book a discovery call.
+
+Contact — /contact
+Goal: make contacting trivial (form + alternative channels).
+Primary CTAs: Submit inquiry, Book calendar.
+
+(You had four items — I’ve expanded “About/Portfolio” into separate pages for clarity, but if you want exactly four, we can combine About + Portfolio into one /about page.)
+
